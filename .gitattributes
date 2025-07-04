@@ -1,0 +1,5 @@
+*.html linguist-documentation
+*.xml linguist-documentation
+*.yml linguist-documentation
+*.properties linguist-documentation
+*.json linguist-documentation
