@@ -14,5 +14,6 @@ API Gateway (Spring Cloud Gateway) – Acts as a single entry point for all serv
 Config Server – Centralized configuration server for managing external properties across services.
 Circuit Breaker (Resilience4j) – Ensures fault tolerance and system stability during service failures.
 Rate Limiter (Resilience4j) – Controls request traffic to protect services from being overloaded.
+Includes JMeter test files for circuit breaker and rate limiter testing.
 
 This setup demonstrates how to build and integrate scalable, fault-tolerant microservices using Spring Boot and Spring Cloud components.
